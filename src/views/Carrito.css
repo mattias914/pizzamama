@@ -1,0 +1,49 @@
+.carrito-container{
+  background-color: #f8f9fa;
+  margin: 30px;
+}
+
+.carrito-item{
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.item-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.item-img img{
+  width: 100px;
+}
+
+.item-masmenos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mas-menos-btn{
+  width: 35px;
+}
+
+.compras {
+  margin: 30px;
+}
+
+.item-name {
+  margin-left: 10px;
+  text-transform: capitalize;
+}
+
+.total-container{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+  font-weight: 800;
+}

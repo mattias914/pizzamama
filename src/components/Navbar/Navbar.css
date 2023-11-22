@@ -1,0 +1,24 @@
+.navbar {
+  display: flex;
+  background-color: #14a2b8;
+  height: 60px;
+  width: auto;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.navbar h2 {
+  color: white;
+  text-align: center;
+}
+
+.lni{
+  display: inline-flex;
+  margin: 0 10px;
+  align-items: center;
+  text-align: center;
+}
+
+.link {
+  text-decoration: none;
+}
